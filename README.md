@@ -19,41 +19,6 @@ Features
 - Simple contact form (can be connected to email or backend)
 - Optimized for performance and accessibility
 
-🧱 Folder Structure
-markdown
-Copy
-Edit
-homecare-website/
-├── index.html
-├── about.html
-├── services.html
-├── contact.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
-└── assets/
-    ├── images/
-    └── icons/
-🚀 Getting Started
-To run this website locally:
-
-Clone the repo
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/homecare-website.git
-Navigate into the project folder
-
-bash
-Copy
-Edit
-cd homecare-website
-Open index.html in your browser.
-
-No build tools or dependencies required — it's pure HTML/CSS/JS.
-
 💡 Future Improvements
 Add backend support for the contact form (e.g., using Node.js or Formspree)
 
