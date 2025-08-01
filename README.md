@@ -1,4 +1,4 @@
-🏡 Beazi HomeCare Website
+
 A responsive and accessible website built for a home care business, designed to highlight services, build trust, and provide an easy way for clients to get in touch.
 
 🌐 Live Demo
